@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alchemy-sdk": "^2.2.3",
+    "moment": "^2.29.4"
+  }
+}
